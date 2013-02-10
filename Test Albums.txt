@@ -1,0 +1,10 @@
+alb_creator
+alb_title
+alb_dscrp
+alb_pins
+alb_flrs
+
+db.albums.insert({alb_creator:"51170512bd8543afa22dba3c",alb_title:"Food",alb_dscrp:"Album of delicious delights",alb_pins:["51170559bd8543afa22dba3d","511705e0bd8543afa22dba47","511705e0bd8543afa22dba41","511705e0bd8543afa22dba49","511705e1bd8543afa22dba4c","511705e1bd8543afa22dba4f"],alb_flrs:[]})
+db.albums.insert({alb_creator:"51170419ae84e3ee4bc4690d",alb_title:"Scenery",alb_dscrp:"Sights of the World",alb_pins:["511705dfbd8543afa22dba3e","511705dfbd8543afa22dba3f","511705e0bd8543afa22dba48","511705e0bd8543afa22dba4a","511705e1bd8543afa22dba4d"],alb_flrs:[]})
+db.albums.insert({alb_creator:"511704afae84e3ee4bc46912",alb_title:"Madrid",alb_dscrp:"The Beautiful city of Madrid",alb_pins:["511705e0bd8543afa22dba44","511705e1bd8543afa22dba4e"],alb_flrs:[]})
+db.albums.insert({alb_creator:"51170329ae84e3ee4bc46908",alb_title:"Travel",alb_dscrp:"Places to be",alb_pins:["511705e0bd8543afa22dba40","511705e0bd8543afa22dba43","511705e1bd8543afa22dba4b"],alb_flrs:[]})

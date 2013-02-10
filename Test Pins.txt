@@ -1,0 +1,36 @@
+pin_title
+pin_dscrp
+pin_date - date created, date format: yyyymmdd
+pin_orig - 
+pin_albm
+pin_source
+pin_cat
+pin_arr_lkes
+pin_arr_rpns
+pin_arr_cmts
+
+db.pins.insert({pin_title:"Chocolates",pin_dscrp:"Sweet delicious CHOCOLATES!",pin_date:"20130223",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Beach Sunset",pin_dscrp:"Taken in Thailand.",pin_date:"20120927",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Beautiful Mountains",pin_dscrp:"Snow covered peaks.",pin_date:"20111029",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Fun at Sea",pin_dscrp:"Steve fell into the water.",pin_date:"20080925",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Tranquil Forest",pin_dscrp:"Peaceful and ancient forest.",pin_date:"20051226",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Wierd Bug",pin_dscrp:"Never see this type here before.",pin_date:"20060606",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Travel Destination",pin_dscrp:"In summer.",pin_date:"20120306",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Streets of Madrid",pin_dscrp:"Hidden streets only locals know of.",pin_date:"20120314",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Cool Car",pin_dscrp:"Speeding on the freeway.",pin_date:"20100816",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Cherry Blossoms",pin_dscrp:"Rain of flower petals.",pin_date:"20130516",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Delicious Ramen",pin_dscrp:"Slurp slurp.",pin_date:"20120201",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"On The Hilltop",pin_dscrp:"Quite the view from here.",pin_date:"20050623",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Takoyaki",pin_dscrp:"20120712With fresh squid too!",pin_date:"",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Castle on a Hill",pin_dscrp:"Can be seen for miles",pin_date:"20120719",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Cruise Ship",pin_dscrp:"And the ship we rode in on.",pin_date:"20081207",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Toad in the Hole",pin_dscrp:"British food.",pin_date:"20121027",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Empty Prairie",pin_dscrp:"Quiet and empty prairie",pin_date:"20110416",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Antique Train",pin_dscrp:"Just like in Harry Potter",pin_date:"20111111",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Bulgogi!!!",pin_dscrp:"Korean food, yum!",pin_date:"",pin_orig:"20070809",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Small Flowing Stream",pin_dscrp:"Small stream near a village.",pin_date:"20110309",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Vodka Shots",pin_dscrp:"Party time!",pin_date:"20130123",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Tiny Blue Flowers",pin_dscrp:"Nearly didn't see them.",pin_date:"20080217",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Jumping porpoises",pin_dscrp:"Photo taken near Ensenada",pin_date:"20110523",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Capricious Cat",pin_dscrp:"It's causing trouble everywhere.",pin_date:"20091030",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})
+db.pins.insert({pin_title:"Beautiful Lady",pin_dscrp:"Oh so sexy.",pin_date:"20121225",pin_orig:"",pin_albm:"",pin_source:"",pin_cat:"",pin_arr_lkes:[],pin_arr_rpns:[],pin_arr_cmts:[]})

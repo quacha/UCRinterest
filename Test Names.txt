@@ -1,0 +1,26 @@
+usr_name
+usr_fname
+usr_lname
+usr_email
+usr_dscrp
+usr_arr_brds
+usr_arr_pins
+usr_arr_lks
+usr_arr_flrs
+usr_arr_flring
+
+Male:
+db.users.insert({usr_name:"Jared Mort",usr_fname:"Jared",usr_lname:"Mort",usr_email:"j_mort@email.com",usr_dscrp:"I bring the Mort to Mortifying",usr_arr_brds:[],usr_arr_pins:[],usr_arr_lks:[],usr_arr_flrs:[],usr_arr_flring:[]})
+db.users.insert({usr_name:"Leo Cecilio",usr_fname:"Leo",usr_lname:"Cecilio",usr_email:"l_cecilio@email.com",usr_dscrp:"",usr_arr_brds:[],usr_arr_pins:[],usr_arr_lks:[],usr_arr_flrs:[],usr_arr_flring:[]})
+db.users.insert({usr_name:"Harold Huang",usr_fname:"Harold",usr_lname:"Huang",usr_email:"h_huang@email.com",usr_dscrp:"",usr_arr_brds:[],usr_arr_pins:[],usr_arr_lks:[],usr_arr_flrs:[],usr_arr_flring:[]})
+db.users.insert({usr_name:"Benjamin Dover",usr_fname:"Benjamin",usr_lname:"Dover",usr_email:"b_dover@email.com",usr_dscrp:"",usr_arr_brds:[],usr_arr_pins:[],usr_arr_lks:[],usr_arr_flrs:[],usr_arr_flring:[]})
+db.users.insert({usr_name:"Rikuto Kurou",usr_fname:"Rikuto",usr_lname:"Kurou",usr_email:"r_kurou@email.com",usr_dscrp:"",usr_arr_brds:[],usr_arr_pins:[],usr_arr_lks:[],usr_arr_flrs:[],usr_arr_flring:[]})
+db.users.insert({usr_name:"Georgiy Evgeniy",usr_fname:"Georgiy",usr_lname:"Evgeniy",usr_email:"g_evgeniy@email.com",usr_dscrp:"",usr_arr_brds:[],usr_arr_pins:[],usr_arr_lks:[],usr_arr_flrs:[],usr_arr_flring:[]})
+
+Female:
+db.users.insert({usr_name:"Anna Lee",usr_fname:"Anna",usr_lname:"Lee",usr_email:"a_lee@email.com",usr_dscrp:"",usr_arr_brds:[],usr_arr_pins:[],usr_arr_lks:[],usr_arr_flrs:[],usr_arr_flring:[]})
+db.users.insert({usr_name:"Fernanda Adelia",usr_fname:"Fernanda",usr_lname:"Adelia",usr_email:"f_adelia@email.com",usr_dscrp:"",usr_arr_brds:[],usr_arr_pins:[],usr_arr_lks:[],usr_arr_flrs:[],usr_arr_flring:[]})
+db.users.insert({usr_name:"Svanhildur Brynja",usr_fname:"Svanhildur",usr_lname:"Brynja",usr_email:"s_brynja@email.com",usr_dscrp:"",usr_arr_brds:[],usr_arr_pins:[],usr_arr_lks:[],usr_arr_flrs:[],usr_arr_flring:[]})
+db.users.insert({usr_name:"Chiyoko Akiko",usr_fname:"Chiyoko",usr_lname:"Akiko",usr_email:"c_akiko@email.com",usr_dscrp:"",usr_arr_brds:[],usr_arr_pins:[],usr_arr_lks:[],usr_arr_flrs:[],usr_arr_flring:[]})
+db.users.insert({usr_name:"Adelle Bernetta",usr_fname:"Adelle",usr_lname:"Bernetta",usr_email:"a_bernatta@email.com",usr_usr_dscrp:"",usr_arr_brds:[],usr_arr_pins:[],usr_arr_lks:[],usr_arr_flrs:[],usr_arr_flring:[]})
+db.users.insert({usr_name:"Hui Wen",usr_fname:"Hui",usr_lname:"Wen",usr_email:"h_wen@email.com",usr_dscrp:"",usr_arr_brds:[],usr_arr_pins:[],usr_arr_lks:[],usr_arr_flrs:[],usr_arr_flring:[]})
